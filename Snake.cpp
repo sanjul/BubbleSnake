@@ -1,5 +1,5 @@
 /*  31/1/2011 2:25 AM
-   (c) Sanjul.A.S
+   (c) sanjul
    MIT Licence (http://opensource.org/licenses/MIT)
    --------------------------------
    use W,A,S,D for up,left,down,right

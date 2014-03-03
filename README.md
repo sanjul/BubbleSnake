@@ -1,4 +1,4 @@
-BubbleSnake
+BubbleSnake (C++)
 ===========
 
 An experimental snake game which was made long ago. Wouldn't be very neat.. ;)

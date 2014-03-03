@@ -1,7 +1,7 @@
 BubbleSnake
 ===========
 
-An experimental snake game made long ago. Wouldn't be very neat.. ;)
+An experimental snake game which was made long ago. Wouldn't be very neat.. ;)
 
 ![Screenshot](screenshot1.png "Uh, oh, level up!")
 
